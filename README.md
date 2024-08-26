@@ -27,7 +27,7 @@ ToDoHero te permite crear, buscar y completar tareas pendientes (ToDos) de maner
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/DuverArt/ToDoHero.git
+    git clone https://github.com/duverart/ToDoHero
     ```
 
 2. Instala las dependencias:
@@ -56,13 +56,3 @@ ToDoHero te permite crear, buscar y completar tareas pendientes (ToDos) de maner
 
 
 ![Mensaje de Modal](./src/assets/Modal.png)
-
-## Contribuciones
-
-Las contribuciones a ToDoHero están abiertas, siempre y cuando no se usen con fines comerciales. Puedes contribuir abiertamente al código, pero si tienes alguna idea para mejorar la funcionalidad o el diseño, eres bienvenido a compartir.
-
-## Licencia
-
-Este proyecto está licenciado bajo la **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
-
-Puedes compartir, copiar y modificar el contenido de este proyecto siempre y cuando se dé crédito adecuado y **no se utilice con fines comerciales**. Para ver la licencia completa, visita [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
